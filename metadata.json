@@ -1,0 +1,6 @@
+{
+  "name": "hello,world",
+  "description": "Android music client for Spotify and YouTube Music with custom cat logo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
